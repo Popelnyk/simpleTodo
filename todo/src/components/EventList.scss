@@ -1,0 +1,10 @@
+.event-list {
+  background-color: aliceblue;
+  width: auto;
+
+  &__item {
+    padding: 5px 10px;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+}

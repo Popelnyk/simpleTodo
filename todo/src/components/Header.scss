@@ -1,0 +1,12 @@
+.header-events {
+  display: flex;
+  justify-content: center;
+  background-color: #353962;
+  border-radius: 3px;
+
+  &__total {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #FFFFFF;
+  }
+}
